@@ -4,6 +4,7 @@
 This project implements a **Car Rental Data Pipeline** using **Apache Airflow, PySpark, Google Cloud Storage (GCS), Dataproc, and Snowflake**.  
 The pipeline handles **Slowly Changing Dimension Type 2 (SCD2)** ingestion, transformations, and fact table creation for analytical reporting.  
 
+![Diagram](car-rental.png)
 ---
 
 ## ⚙️ Architecture
